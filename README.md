@@ -6,4 +6,8 @@ Aussi, ce dossier servira pour ma formation au Wagon, et de test pour comprendre
 Allez on continue ! 
 ## Normalement au prochain commit et push on devrait voir ça d'actualisé.
 
+
 OLALA UN GROS BUG ZUT 
+(le bug a été résolu slt)
+ 
+
